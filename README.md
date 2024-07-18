@@ -9,6 +9,8 @@
 
 # structure
 
+![alt text](image.png)
+
 1. server.ts
    เริ่มต้นด้วยการ setup การเชื่อมต่อต่างๆ ในไฟล์นี้ ไม่ว่าจะเป็น
    - sever
